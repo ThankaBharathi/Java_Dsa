@@ -1,7 +1,5 @@
 
-// optimal approach
-//https://leetcode.com/problems/majority-element/
-//leetcode majority Element (169)
+
 
 
 import java.util.Arrays;
@@ -11,6 +9,10 @@ class Solution {
         return nums[nums.length/2];
     }
 }
+
+// optimal approach
+//https://leetcode.com/problems/majority-element/
+//leetcode majority Element (169)
 
 //Sorting Approach
 
